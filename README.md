@@ -76,5 +76,4 @@ requirements.txt
 README.md
 ```
 
-## License
-MIT License (add your license if different)
+
